@@ -1,91 +1,43 @@
-# 👨🏻‍💻 Alyson Matheus
+# 👨🏻‍💻 **Alyson Matheus**
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack | Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Alyson Matheus Gonçalves Martins, tenho 24 anos e sou natural de São Paulo. Concluí o ensino técnico em Informática para Internet pela ETEC Amin Jundi e atualmente curso Análise e Desenvolvimento de Sistemas na FAI (Adamantina). Sou apaixonado por tecnologia e estou sempre em busca de novos desafios e oportunidades para compartilhar meu conhecimento.
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img
-    align="left"
-    alt="Java"
-    title="Java"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-/>
-<img
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-/>
-<img
-    align="left"
-    alt="PHP"
-    title="PHP"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-/>
-<img
-    align="left"
-    alt="React"
-    title="React"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-/>
-<img
-    align="left"
-    alt="Spring Boot"
-    title="Spring Boot"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-/>
-<img
-    align="left"
-    alt="SQL"
-    title="SQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-/>
-<img
-    align="left"
-    alt="PostgreSQL"
-    title="PostgreSQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-/>
-
-<br/>
-<br/>
+Sou Alyson Matheus Gonçalves Martins, um entusiasta de tecnologia com 24 anos, residente em São Paulo. Possuo formação técnica em Informática para Internet pela **ETEC Amin Jundi** e atualmente curso **Análise e Desenvolvimento de Sistemas** na **FAI (Adamantina)**.  
+Tenho experiência em desenvolvimento web e estou sempre em busca de novos desafios que contribuam para meu crescimento profissional, bem como para o aprimoramento de minhas habilidades. Sou apaixonado por criar soluções tecnológicas eficientes e intuitivas.
 
 ---
 
-### 📊 Estatísticas
+## 🌐 **Conecte-se comigo**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/alyson-matheus-582012271/) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/AlysonMatheus)  
+[![Email](https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:alysonmatheus@dev.com.br)
 
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=AlysonMatheus&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+---
 
-<img
-      align="left"
-      alt="Top Languages"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlysonMatheus&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
+## 💻 **Linguagens e Tecnologias**
+
+| **Back-end**        | **Front-end**      | **Banco de Dados** |
+|----------------------|--------------------|---------------------|
+| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) `Java`  | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) `JavaScript` | ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) `SQL` |
+| ![Spring Boot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) `Spring Boot` | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) `React` | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) `PostgreSQL` |
+| ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) `PHP`  |  |  |
+
+---
+
+## 📈 **Estatísticas do GitHub**
+
+<div align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=AlysonMatheus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    alt="Estatísticas do GitHub de Alyson Matheus"
   />
-</p>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlysonMatheus&layout=compact&theme=tokyonight"
+    alt="Linguagens mais utilizadas por Alyson Matheus"
+  />
+</div>
+
+---
 
