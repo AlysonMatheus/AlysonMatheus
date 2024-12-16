@@ -16,13 +16,16 @@ Tenho experiência em desenvolvimento web e estou sempre em busca de novos desaf
 
 ## 💻 **Linguagens e Tecnologias**
 
-| **Back-end**        | **Front-end**      | **Banco de Dados** |
-|----------------------|--------------------|---------------------|
-| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) `Java`  | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) `JavaScript` | ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) `SQL` |
-| ![Spring Boot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) `Spring Boot` | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) `React` | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) `PostgreSQL` |
-| ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) `PHP`  |  |  |
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" title="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
+</p>
 
----
 
 ## 📈 **Estatísticas do GitHub**
 
