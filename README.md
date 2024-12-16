@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack | Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Sou Alyson Matheus Gonçalves Martins, um entusiasta de tecnologia com 24 anos, residente em São Paulo. Possuo formação técnica em Informática para Internet pela **ETEC Amin Jundi** e atualmente curso **Análise e Desenvolvimento de Sistemas** na **FAI (Adamantina)**.  
+Sou Alyson Matheus Gonçalves Martins, um entusiasta de tecnologia com 24 anos, residente em Osvaldo Cruz - São Paulo. Possuo formação técnica em Informática para Internet pela **ETEC Amin Jundi** e atualmente curso **Análise e Desenvolvimento de Sistemas** na **FAI (Adamantina)**.  
 Tenho experiência em desenvolvimento web e estou sempre em busca de novos desafios que contribuam para meu crescimento profissional, bem como para o aprimoramento de minhas habilidades. Sou apaixonado por criar soluções tecnológicas eficientes e intuitivas.
 
 ---
